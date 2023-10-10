@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "875560605628",
+    "project_id": "firestore01-a2343",
+    "storage_bucket": "firestore01-a2343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875560605628:android:39103e9f9bcc5a071cfdb9",
+        "android_client_info": {
+          "package_name": "com.pupup.firestore01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7d-BVFexnnXevDKUhwx9Rj8Iu17dwFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875560605628:android:0c2ed0a8816e97d81cfdb9",
+        "android_client_info": {
+          "package_name": "com.pupup.firestore2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7d-BVFexnnXevDKUhwx9Rj8Iu17dwFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875560605628:android:49c2b5ccff3d4d581cfdb9",
+        "android_client_info": {
+          "package_name": "com.pupup.getdatafromfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7d-BVFexnnXevDKUhwx9Rj8Iu17dwFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875560605628:android:b793463a3952df451cfdb9",
+        "android_client_info": {
+          "package_name": "com.pupup.retrievedataagaain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7d-BVFexnnXevDKUhwx9Rj8Iu17dwFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
